@@ -1,6 +1,29 @@
 {
-  "schemaVersion": 1,
-  "product": "GuiaCopy",
-  "channel": "preview",
-  "release": null
+    "schemaVersion":  1,
+    "product":  "GuiaCopy",
+    "channel":  "preview",
+    "release":  {
+                    "version":  "1.0.0-rc4",
+                    "tag":  "v1.0.0-rc4",
+                    "publishedAt":  "2026-09-03T10:04:59.6351782Z",
+                    "mandatory":  false,
+                    "minimumSupportedVersion":  "1.0.0-rc4",
+                    "releaseNotesUrl":  "https://github.com/guiasysstudio/GuiaCopy-Releases/releases/tag/v1.0.0-rc4",
+                    "assets":  {
+                                   "win-x64":  {
+                                                   "type":  "installer",
+                                                   "fileName":  "GuiaCopy_Setup_1.0.0-rc4.exe",
+                                                   "downloadUrl":  "https://github.com/guiasysstudio/GuiaCopy-Releases/releases/download/v1.0.0-rc4/GuiaCopy_Setup_1.0.0-rc4.exe",
+                                                   "sha256":  "ccb24d5c28cffa8d96d2557bccc01826cc5d0387ca20e0c2ccb1f68615df6764",
+                                                   "size":  203221306
+                                               },
+                                   "linux-x64":  {
+                                                     "type":  "package",
+                                                     "fileName":  "GuiaCopy-linux-x64-1.0.0-rc4.tar.gz",
+                                                     "downloadUrl":  "https://github.com/guiasysstudio/GuiaCopy-Releases/releases/download/v1.0.0-rc4/GuiaCopy-linux-x64-1.0.0-rc4.tar.gz",
+                                                     "sha256":  "54b4962ed513e51edd5c236ee76e314a1f0bad911d5c563fbde530dbc1fe5efb",
+                                                     "size":  45565785
+                                                 }
+                               }
+                }
 }
